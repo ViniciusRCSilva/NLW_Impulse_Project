@@ -25,16 +25,23 @@
   
   <div>
     <h3>
-      <img align="center" width="40px" src="https://cdn-icons.flaticon.com/png/128/4450/premium/4450309.png?token=exp=1651805101~hmac=a42c8883e85def167ce9d9dc3cfffdeb" />
+      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/214/214707.png" />
       Stage 2
     </h3>
+
+    Criação de componentes
+    Funções entre componentes
   </div>
 
   <div>
     <h3>
-      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/399/399274.png" />
+      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/214/214707.png" />
       Stage 3
     </h3>
+
+    Criação de um Banco de Dados (Prisma)
+    Criação de uma API
+    Realizando testes unitários (Jest)
   </div>
 
   <div>
