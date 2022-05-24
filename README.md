@@ -46,9 +46,13 @@
 
   <div>
     <h3>
-      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/399/399274.png" />
+      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/214/214707.png" />
       Stage 4
     </h3>
+    
+    Criando componentes em React-Native
+    Trabalhando funções e estados
+    Conexão com o Server (Back-End)
   </div>
 
    <div>
