@@ -57,9 +57,13 @@
 
    <div>
     <h3>
-      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/399/399274.png" />
+      <img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/128/214/214707.png" />
       Stage 5
     </h3>
+     
+     Deploy Front-End (Vercel)
+     Deploy Back-End (Railway)
+     Verificação de envio de email (Mailtrap)
   </div> 
 </div>
 </html>
